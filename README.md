@@ -28,9 +28,9 @@ Feature들을 추출하고, 이를 이용해 감정분석 모델 및 작곡 알�
 ----
 
 ### Directory: 
-- **GUI** : Graphic User Interface를 사용하기 위한 코드가 들어있고, PyQT를 이용하여 제작을 했다.
+- **GUI** : PyQT를 이용해 제작한, Graphic User Interface를 사용하기 위한 코드
 - **code**  :
-    - **application.py** : application을 실행시키는 Main File
+    - **application.py** : Application을 실행시키는 Main File
     - convert_signal_to_music.py : 뇌파 신호를 음악으로 변환하기 위한 알고리즘을 구현한 코드
     - emotion_analysis_model.py : 학습된 모델을 이용하여 뇌파의 감정을 분석하기 위한 코드
     - feature_extractor.py : 뇌파에서 다양한 feature를 추출하기 위한 코드
