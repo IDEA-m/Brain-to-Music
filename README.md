@@ -1,5 +1,4 @@
-# Brain-to-Music : 
-## Implementation of EEG-based user-friendly music composition algorithm
+## Brain-to-Music : Implementation of EEG-based user-friendly music composition algorithm
 <img src="https://img.shields.io/badge/numpy-1.19.5-yellowgreen"/> 
 <img src="https://img.shields.io/badge/pandas-1.2.0-yellowgreen"/> 
 <img src="https://img.shields.io/badge/scipy-1.5.4-yellowgreen"/> 
