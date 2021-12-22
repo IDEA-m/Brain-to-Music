@@ -13,6 +13,8 @@ Feature들을 추출하고, 이를 이용해 감정분석 모델 및 작곡 알�
 
 
 
+
+### 사용한 라이브러리
 <img src="https://img.shields.io/badge/numpy-1.19.5-yellowgreen"/> 
 <img src="https://img.shields.io/badge/pandas-1.2.0-yellowgreen"/> 
 <img src="https://img.shields.io/badge/scipy-1.5.4-yellowgreen"/> 
@@ -25,8 +27,7 @@ Feature들을 추출하고, 이를 이용해 감정분석 모델 및 작곡 알�
 
 
 
-
-
+### Directory
 - **GUI** : Graphic User Interface를 사용하기 위한 코드가 들어있고, PyQT를 이용하여 제작을 했다.
 - **code**  :
     - **application.py** : application을 실행시키는 Main File
@@ -43,11 +44,8 @@ Feature들을 추출하고, 이를 이용해 감정분석 모델 및 작곡 알�
 
 
 
-### 실행방법 : 
-
+### 실행방법
 ![](./GUI/gui.png)
-
-
 0. `code`폴더의 `application.py`를 실행하여 어플리케이션 시작
 1. EEG Data를 상단의 Box에 Drag and Drop 
 2. `Extract Feature`를 통해서 EEG Data에서 필요한 특성들을 추출 
